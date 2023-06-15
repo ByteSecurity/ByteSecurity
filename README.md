@@ -1,1 +1,1 @@
-<img src="https://github.com/ByteSecurity/ByteSecurity/blob/master/head.png" alt="ByteSecurity GitHub README header image">
+<img src="https://github.com/ByteSecurity/ByteSecurity/blob/main/head.png" alt="ByteSecurity GitHub README header image">
